@@ -1,0 +1,11 @@
+{
+  "name": "Gabriel Testoni",
+  "description": "Aplicação básica com MEAN Stack",
+  "main": "",
+  "authors": [
+    "Gabriel <gabriel.testoni@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Testoni/mean-basico",
+  "moduleType": []
+}
