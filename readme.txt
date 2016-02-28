@@ -8,3 +8,9 @@ npm install -g grunt-cli
 sudo apt-get install mongodb
 
 nvm install node
+
+robomongo
+
+sudo service mongod start
+
+npm install mongoose
